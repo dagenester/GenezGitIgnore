@@ -6,4 +6,4 @@ z*
 .env
 
 # ignore
-/artifacts/*
+/artifacts/
